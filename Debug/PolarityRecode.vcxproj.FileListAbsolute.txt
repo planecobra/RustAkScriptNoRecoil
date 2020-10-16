@@ -1,0 +1,3 @@
+C:\Users\ItzzJ\Desktop\PolarityRecode\PolarityRecode\Debug\PolarityRecode.vcxprojAssemblyReference.cache
+C:\Users\ItzzJ\Desktop\PolarityRecode\PolarityRecode\Debug\PolarityRecode.PolarityRecode.resources
+C:\Users\ItzzJ\Desktop\PolarityRecode\PolarityRecode\Debug\PolarityRecode.vcxproj.GenerateResource.cache

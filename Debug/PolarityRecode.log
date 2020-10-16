@@ -1,0 +1,8 @@
+﻿  Recoil.cpp
+C:\Users\ItzzJ\Desktop\PolarityRecode\PolarityRecode\Recoil.cpp(61,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ItzzJ\Desktop\PolarityRecode\PolarityRecode\Recoil.cpp(61,56): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ItzzJ\Desktop\PolarityRecode\PolarityRecode\Recoil.cpp(61,88): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ItzzJ\Desktop\PolarityRecode\PolarityRecode\Recoil.cpp(244,182): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ItzzJ\Desktop\PolarityRecode\PolarityRecode\Recoil.cpp(257,22): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Recoil.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PolarityRecode.vcxproj -> C:\Users\ItzzJ\Desktop\PolarityRecode\Debug\PolarityRecode.exe
